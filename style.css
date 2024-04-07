@@ -57,7 +57,7 @@ html {
   width: 720px;
   height: 480px;
   display: flex;
-  flex-direction: space-evenly;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   border-radius: 80px;
